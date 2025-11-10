@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+
+  /* Color tokens inspired by the design */
+  --color-primary: #1a1a1a;
+  --color-primary-foreground: #ffffff;
+
+  --color-secondary: #2d3748;
+  --color-secondary-foreground: #ffffff;
+
+  --color-accent: #d4af37;
+  --color-accent-foreground: #1a1a1a;
+
+  --color-background: #ffffff;
+  --color-foreground: #1a1a1a;
+
+  --color-muted: #f7f7f7;
+  --color-muted-foreground: #6b7280;
+
+  --color-card: #ffffff;
+  --color-card-foreground: #1a1a1a;
+
+  --color-border: #e5e7eb;
+  --color-input: #e5e7eb;
+  --color-ring: #d4af37;
+
+  --radius: 0.5rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
+}
