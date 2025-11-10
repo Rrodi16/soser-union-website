@@ -140,6 +140,3 @@ This project was developed as part of an internship program at SOSER Union. For 
 - **Email**: info@soserunion.com
 - **Phone**: +251582211539
 - **Address**: Dangila, Awi Zone, Ethiopia
-
- (Vice Manager, SOSER Union)
-- Institution: Mekdela Amba University, College of Computing and Informatics
