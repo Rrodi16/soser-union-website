@@ -138,12 +138,7 @@ This project was developed as part of an internship program at SOSER Union. For 
 ## Contact
 
 - **Email**: info@soserunion.com
-- **Phone**: +251-XXX-XXXXXX
+- **Phone**: +251-000-000000
 - **Address**: Dangila, Awi Zone, Ethiopia
 
-## Acknowledgments
 
-- Developed by: Rodas Dilnesa
-- Academic Mentor: Mr. Ahmed S.
-- Industry Mentor: Mr. Bekalu Shawole (Vice Manager, SOSER Union)
-- Institution: Mekdela Amba University, College of Computing and Informatics

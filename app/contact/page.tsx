@@ -67,7 +67,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-bold mb-1">Phone</h3>
-                    <p className="text-muted-foreground">+251-XXX-XXXXXX</p>
+                    <p className="text-muted-foreground">+251-00-000-0000</p>
                   </div>
                 </div>
 
